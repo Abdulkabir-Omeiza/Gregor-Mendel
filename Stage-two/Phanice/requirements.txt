@@ -1,0 +1,8 @@
+fastqc
+multiqc
+fastp
+bwa
+samtools
+bcftools
+freebayes
+
