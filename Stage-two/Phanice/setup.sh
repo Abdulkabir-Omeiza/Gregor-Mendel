@@ -16,8 +16,8 @@ sudo apt-get install bwa
 # Install bcftools
 sudo apt-get install bcftools
 
-
 # Install Samtools
 sudo apt-get install samtools
 
-
+# Install bbtools
+sudo apt-get install bbtools
