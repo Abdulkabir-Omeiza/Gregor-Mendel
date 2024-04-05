@@ -1,0 +1,5 @@
+1. Fastqc
+2. fastp
+3. bwa
+4. samtools
+5. bcftools
