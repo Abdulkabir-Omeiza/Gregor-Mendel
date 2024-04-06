@@ -1,7 +1,7 @@
-fastqc
-fastp
-bwa
-samtools
-bcftools
-tabix
+fastqc v0.12.1
+fastp v0.23.3
+bwa v2.2.1
+samtools v1.19.2
+bcftools v1.19
+tabix v1.10.2
 
