@@ -1,5 +1,5 @@
-1. Fastqc
-2. fastp
-3. bwa
-4. samtools
-5. bcftools
+1. Fastqc v0.12.1
+2. fastp v0.23.2
+3. bwa v2.2.1
+4. samtools v1.19.2
+5. bcftools v1.19
