@@ -1,8 +1,8 @@
 tools used in this pipeline
-fastqc for quality control
-fastp for trimming
-multiqc for combining files
-bwa for genome mapping
-freebayes for variant calling
+fastqc v0.12.1 for quality control
+fastp v0.23.2 for trimming
+multiqc v1.20 for combining files
+bwa v2.2.1 for genome mapping
+freebayes v1.3.7 for variant calling
 
 Thank you :)
