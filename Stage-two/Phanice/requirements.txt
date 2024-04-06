@@ -1,8 +1,8 @@
-fastqc
-multiqc
-fastp
-bwa
-samtools
-bcftools
-freebayes
-bbtools
+fastqc v0.12.1
+multiqc v1.20
+fastp v0.23.2
+bwa v2.2.1
+samtools v1.19.2
+bcftools v1.19
+freebayes v1.3.7
+bbtools v39.03
