@@ -1,6 +1,6 @@
 Tools used for the analysis include
-1. FASTQC : for assessing the quality of reads/quality control check
-2. FASTP : for trimming of reads
-3. BWA : for read alignment with reference genome
-4. SAMTOOLS : for converting sam files to bam files
-5. BCFTOOLS : for variant calling
+1. FASTQC v0.12.1 : for assessing the quality of reads/quality control check
+2. FASTP v0.23.2 : for trimming of reads
+3. BWA v2.2.1 : for read alignment with reference genome
+4. SAMTOOLS v1.19.2: for converting sam files to bam files
+5. BCFTOOLS v1.19 : for variant calling
